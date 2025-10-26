@@ -18,6 +18,3 @@ Jing Fan（范静） graduated with a Bachelor's degree in 2025 from Beijing Uni
 - **[June 2025]** Completed the design of a community discovery system based on large models under the supervision of Prof. Jinpeng Chen.
 - **[September 2025]** Joined the Key Laboratory of Trusted Distributed Computing and Services (ACDC) at BUPT and started pursuing a Master's degree.
 - **[ctober 2025]** Began researching session-based recommendation systems.
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
