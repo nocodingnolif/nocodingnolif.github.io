@@ -4,20 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Jing Fan（范静） graduated with a Bachelor's degree in 2025 from Beijing University of Posts and Telecommunications (BUPT), Beijing, China. She is currently pursuing her Master's degree at the Key Laboratory of Trusted Distributed Computing and Services (ACDC) at BUPT. Amy is working under the supervision of Prof. Jinpeng Chen, focusing on research in session-based recommendation systems.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Recommendation Systems** 
+- **Multimodal Learning**
+- **LLM**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[June 2025]** Completed the design of a community discovery system based on large models under the supervision of Prof. Jinpeng Chen.
+- **[September 2025]** Joined the Key Laboratory of Trusted Distributed Computing and Services (ACDC) at BUPT and started pursuing a Master's degree.
+- **[ctober 2025]** Began researching session-based recommendation systems.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
